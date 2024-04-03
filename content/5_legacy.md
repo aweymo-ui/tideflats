@@ -1,5 +1,5 @@
 ---
-title: Marketing vs. Long Term Effects
+title: Legacy
 nav: Legacy
 ---
 
@@ -18,6 +18,8 @@ Perhaps the most effective piece of marketing that Carstens created and likely w
 ___
 
 In 1987, the Environmental Protection Agency declared the area a superfund site, identifying carcinogenic levels of heavy metals and organic compounds. Waste materials in soil composition samples ranged from coal tar, cyanide, shredded car interiors, animal fat and animal byproducts. A combination of soil excavation, stabilization and groundwater extraction was recommended for areas exceeding the 6 to 10 lifetime span cancer risk designation.[^26] This survey was completed only 17 years before the establishment of the Detention Center. 
+
+<br> 
 
 ## Conclusion
 

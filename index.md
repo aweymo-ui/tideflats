@@ -7,9 +7,7 @@ layout: page
 
 * [Slides](https://indd.adobe.com/view/de4744b4-d44f-4afc-96cb-f4a6a31b7d55)
 
-* [Longform audio version of this presentations](https://andrewweymouth.bandcamp.com/album/the-tideflats)
-
-* Created for the 2022 University of Washington Storytelling Fellows
+* [Longform audio version of this presentations](https://andrewweymouth.bandcamp.com/album/the-tideflats), created for the 2022 University of Washington Storytelling Fellowship
 
 {% include toc.html %}
 

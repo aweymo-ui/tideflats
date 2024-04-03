@@ -3,7 +3,7 @@ title: Image Credits
 nav: Image Credits
 ---
 
-Image credits for the [slideshow](https://indd.adobe.com/view/de4744b4-d44f-4afc-96cb-f4a6a31b7d55)
+Full attribution for all images included in the [slideshow](https://indd.adobe.com/view/de4744b4-d44f-4afc-96cb-f4a6a31b7d55)
 
 - “A7037-1 - Northwest ORCA.” n.d. Accessed March 29, 2024. https://northwestroom.tacomalibrary.org/index.php/a7037-1.
 
