@@ -1,2 +1,2 @@
-## Collaborating with Community Archives to Increase Access to At-Risk Collections 
-This presentation, created for the 2024 Northwest Archivist conference, details my experience collaborating with the Filipino American National Historical Society to create an article on the Alaskero migratory laborers, and explores being mindful of bias when engaging with community heritage spaces that don't look or function like formal archives.
+## The Tideflats: Distance and Environmental Psychology 
+Presentation for the Society of Architectural Historians 2024 conference on the history of land use in the industrial Tacoma, Washington Tideflats, exploring themes of urban development and environmental psychology
