@@ -18,7 +18,7 @@ In addition to Nordic fishing settlements, the Tideflats also sustained a Japane
 The St. Paul and Tacoma Lumber Company incentivized immigrant labor due to the dangerous work conditions and insatiable demand for building materials during this period. The company provided newly arrived, unskilled workers with schools, boarding houses and customized cultural amenities on the Tideflats, essentially creating a company town just south of Tacoma’s urban center. The St. Paul and Tacoma Hotel had two buildings for housing employees, one for European workers and a Japanese Hotel on the opposite end of St. Paul avenue. Interviewee Clinton Butsuda described the building as 
 
  <blockquote class="quote">
-“a dark red and white trimmed two story… boarding house with about 40 rooms for the bachelors,” and described “men engaged in Judo and fencing kendo with pads, masks, and bamboo swords on holidays and… weekends.”
+“A dark red and white trimmed two story… boarding house with about 40 rooms for the bachelors,” and described “men engaged in Judo and fencing kendo with pads, masks, and bamboo swords on holidays and… weekends.”
 </blockquote>
 
 [^8]

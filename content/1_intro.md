@@ -5,6 +5,8 @@ nav: Introduction
 
 **Hello, my name is Andrew Weymouth** and I have worked with the University of Idaho Library as the [Digital Initiatives Librarian](https://www.lib.uidaho.edu/about/people/aweymouth.html) in the [Center for Digital Inquiry](https://cdil.lib.uidaho.edu/) and Learning (CDIL) department since the fall of 2023. My work generally consists of creating and maintaining our digital collections, working with CDIL fellows, helping to rethink processes and introducing new digital scholarship tools to the department
 
+{% include alert.html text="Note: In an effort to make this slideshow and supplementary workshop site widely accessible to different age groups and demographics, I have excluded all graphic visual material related to animal processing. If you are interested in this material, exploring the links in the Image Credits section will direct you to the full archive." color="light" align="right" %}
+
 -------------
 
 ## The Tideflats
@@ -17,7 +19,7 @@ nav: Introduction
 
 In particular, I was interested in one, specific, 12 acre plot on the we can see marked as 186 on the map here, where the Northwest Detention Center is now located.[^1]
 
-Established by a corporation called GEO Group working under contract on behalf of the US Immigrations and Customs Enforcement, or ICE, the 1,575 bed detention center (originally around 500 beds when it opened in 2004)[^2] generates 57 million in annual revenue at full occupancy.[^3] The Center is abutted by the Puyallup River to the south, the City Waterway to the North and intersected by the Northern Pacific Railway line. The center isn’t visible from most areas of downtown Tacoma, but less than an hour’s walk away from it. Once there, the facility blends seamlessly alongside the other expansive, gray structures that sprawl across the Tideflats.
+**Established by a corporation called GEO Group** working under contract on behalf of the US Immigrations and Customs Enforcement, or ICE, the 1,575 bed detention center (originally around 500 beds when it opened in 2004)[^2] generates 57 million in annual revenue at full occupancy.[^3] The Center is abutted by the Puyallup River to the south, the City Waterway to the North and intersected by the Northern Pacific Railway line. The center isn’t visible from most areas of downtown Tacoma, but less than an hour’s walk away from it. Once there, the facility blends seamlessly alongside the other expansive, gray structures that sprawl across the Tideflats.
 
 The detention center has been observed violating both international human rights law and Constitutional citizen protections. Hundreds of inmates engaged in multiple hunger strikes in response to repeated allegations of medical neglect, unsanitary conditions, wage theft, delayed immigration hearings and sexual assault.[^4]
 

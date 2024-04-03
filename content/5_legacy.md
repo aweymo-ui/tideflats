@@ -15,6 +15,8 @@ Perhaps the most effective piece of marketing that Carstens created and likely w
 
 **Despite Carstens’ protests, the facility affected much more than the “perfume” of the Tideflats**, as he put it.[^24] The company town of the turn of the century gradually turned into a community known as the Hollywood-on-the-Tideflats, a cruel, ironic name for people forced to live in simple houseboats and shacks due to the great depression. In one of the more blatant displays of WWII opportunism, the Tacoma Fire Department collaborated with the US Coast Guard to evict and burn the property of the entire community, just two days after the forced removal of Tacoma’s Japanese American community.[^25]
 
+___
+
 In 1987, the Environmental Protection Agency declared the area a superfund site, identifying carcinogenic levels of heavy metals and organic compounds. Waste materials in soil composition samples ranged from coal tar, cyanide, shredded car interiors, animal fat and animal byproducts. A combination of soil excavation, stabilization and groundwater extraction was recommended for areas exceeding the 6 to 10 lifetime span cancer risk designation.[^26] This survey was completed only 17 years before the establishment of the Detention Center. 
 
 ## Conclusion
