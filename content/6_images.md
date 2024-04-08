@@ -1,6 +1,7 @@
 ---
 title: Image Credits
 nav: Image Credits
+gallery: true
 ---
 
 Full attribution for all images included in the [slideshow](https://indd.adobe.com/view/de4744b4-d44f-4afc-96cb-f4a6a31b7d55)

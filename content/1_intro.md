@@ -1,6 +1,7 @@
 ---
 title: Introduction
 nav: Introduction
+gallery: true
 ---
 
 **Hello, my name is Andrew Weymouth** and I have worked with the University of Idaho Library as the [Digital Initiatives Librarian](https://www.lib.uidaho.edu/about/people/aweymouth.html) in the [Center for Digital Inquiry and Learning department](https://cdil.lib.uidaho.edu/) (CDIL) since August 2023. My work generally consists of creating and maintaining our digital collections, collaborating with students and faculty on fellowship programs, helping to rethink processes and introducing new digital scholarship tools to the department.
@@ -11,11 +12,11 @@ nav: Introduction
 
 ## The Tideflats
 
-{% include figure.html img="carstens_05_SOC_110.png" alt="Aerial map of the Tideflats area from the midcentury" caption="Map of the Industrial Area of Tacoma, Washington, created by the National Bank of Washington, ca. 1950s." %}
+{% include gallery-figure.html img="carstens_05_SOC_110.png" alt="Alt: Aerial map of the Tideflats area from the midcentury" caption="Map of the Industrial Area of Tacoma, Washington, created by the National Bank of Washington, ca. 1950s." %}
 
 **The project I’ll be talking about today** is the result of a 2022 Storytelling Fellows for the University of Washington. The central focus is an industrial area just south of downtown Tacoma, Washington spanning 3,000 acres known as the Tideflats. Since Tacoma was established as a port city in the 1870s, the Tideflats have been utilized to connect shipping trade from Commencement Bay on the Puget Sound to the Northern Pacific Railroad. 
 
-{% include figure.html img="carstens_06_SOC_110.png" alt="Detail of the above map" caption="Map of the Industrial Area of Tacoma, Washington, created by the National Bank of Washington, ca. 1950s, detail." %}
+{% include gallery-figure.html img="carstens_06_SOC_110.png" alt="Alt: Detail of the above map" caption="Map of the Industrial Area of Tacoma, Washington, created by the National Bank of Washington, ca. 1950s, detail." %}
 
 <blockquote class="quote">
 In particular, I was interested in one, specific, 12 acre plot on the we can see marked as 186 on the map here, where the Northwest Detention Center is now located.

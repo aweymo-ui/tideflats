@@ -1,12 +1,13 @@
 ---
 title: Lost Tacoma
 nav: Lost Tacoma
+gallery: true
 ---
 
 
 **I started thinking about the Detention Center** because of a digital archiving project I was working on called [Lost Tacoma](https://aweymo.github.io/losttacoma/), in partnership with the [Tacoma Public Library’s Northwest Room](https://www.tacomalibrary.org/blogs/post/lost-tacoma/). [Three of the buildings in the collection were designed for the Carstens Packing Company, the largest wholesale meat warehouse on the west coast for many years, established on the Tideflats in 1904. Plans included a “[pork house](https://northwestroom.tacomalibrary.org/index.php/carsten-packing-company-pork-house),” a [cooler](https://northwestroom.tacomalibrary.org/index.php/carsten-packing-coolers-and-shipping-office) and an [abattoir](https://northwestroom.tacomalibrary.org/index.php/carsten-packing-company-abattoir) designed by premiere industrial Chicago architects Henschien, Everds and Crombie, who would go on to create facilities for cold cut luminaries Oscar Meyer.
 
-{% include figure.html img="carstens_39_1.jpg" alt="Blueprint of the Carstens Abattoir" caption="Blueprint of the Carstens Abattoir, June 10, 1939." %}
+{% include gallery-figure.html img="carstens_39_1.jpg" alt="Alt: Blueprint of the Carstens Abattoir" caption="Blueprint of the Carstens Abattoir, June 10, 1939." %}
 
 I was drawn to the blueprints by their detailed room labels, evocative regardless of your dietary preferences. Technical drawings illustrate the proximity of the _lard melting room_ to the _inedible rendering room_, and the _condemned products room_ to what was simply labeled the _hair department_. As I was identifying mapping coordinates for each of the 28 locations, I realized the detention center occupied the exact same space as the Carstens Packing Company, and that they opened exactly 100 years after one another.
 
