@@ -8,7 +8,7 @@ gallery: true
 
 {% include alert.html text="Note: In an effort to make this slideshow and supplementary workshop site widely accessible to different age groups and demographics, I have excluded all graphic visual material related to animal processing. If you are interested in this material, exploring the links in the Image Credits section will direct you to the full archive." color="light" align="right" %}
 
-<p class="symbol">&#10042;</p>
+#10042;
 
 ## The Tideflats
 
@@ -27,7 +27,9 @@ In particular, I was interested in one, specific, 12 acre plot on the we can see
 
 The detention center has been observed violating both international human rights law and Constitutional citizen protections. Hundreds of inmates engaged in multiple hunger strikes in response to repeated allegations of medical neglect, unsanitary conditions, wage theft, delayed immigration hearings and sexual assault.[^4]
 
-<p class="symbol">&#10042;</p>
+<div class="symbol-container">
+    <p class="symbol">&#10042;</p>
+</div>
 
 <br>
 

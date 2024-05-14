@@ -11,7 +11,9 @@ gallery: true
 
 I was drawn to the blueprints by their detailed room labels, evocative regardless of your dietary preferences. Technical drawings illustrate the proximity of the _lard melting room_ to the _inedible rendering room_, and the _condemned products room_ to what was simply labeled the _hair department_. As I was identifying mapping coordinates for each of the 28 locations, I realized the detention center occupied the exact same space as the Carstens Packing Company, and that they opened exactly 100 years after one another.
 
-<p class="symbol">&#10042;</p>
+<div class="symbol-container">
+    <p class="symbol">&#10042;</p>
+</div>
 
 **Though Thomas Carstens and Geo Group have no economic or genealogical ties to one another**, their motivations for occupying this same space in the built environment are similar. Both corporations knew that they wanted to profit off of something that was environmentally and ethically questionable and they wanted to be at just enough of a remove that they could be out of sight and out of mind to the resident’s of the urban center, while benefiting from transportation centrality and proximity to unorganized labor. Both corporations engaged in the psychology of distance and spatial perception, asking: 
 

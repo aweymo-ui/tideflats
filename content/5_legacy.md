@@ -8,13 +8,17 @@ gallery: true
 
 **Perhaps dogged by being driven out of Seattle** due to creating noxious and unsanitary conditions, Carstens appears obsessed with broadcasting the advanced technology and pristine conditions of his facilities, despite clear evidence to the contrary. One of the best glimpses inside the facility that we have is a 1909 “Christmas Booklet”. While the recipient’s of this grisly holiday present are unknown, affectless workers can be seen in dim, expansive wooden caverns in the second floor glue factory and wearing long, wet leather aprons in the Inedible Tank Rendering Room.[^22] 
 
-<p class="symbol">&#10042;</p>
+<div class="symbol-container">
+    <p class="symbol">&#10042;</p>
+</div>
 
 {% include gallery-figure.html img="carstens_11_p17061coll21_3068.jpeg" alt="Parade float covered in daffodils and upholstery trim with a butcher smiling and holding an oversized knife in front of a giant paper mache ham" caption="Carstens Packing Co. float, July 22, 1939, Courtesy Tacoma Northwest Room (D8652-33)." title="Carstens Packing Co. float, July 22, 1939, Courtesy Tacoma Northwest Room (D8652-33)." %}
 
 Possibly the most effective piece of marketing that Carstens created and likely what most Tacoma residents would associate with them over the physical presence on the Tideflats was their annual participation in the Daffodil parade, where men in butcher’s whites wielded comically oversized carving knives in front of huge, paper mache hams on floats covered in daffodils and frilled trim.[^23]
 
-<p class="symbol">&#10042;</p>
+<div class="symbol-container">
+    <p class="symbol">&#10042;</p>
+</div>
 
 {% include gallery-figure.html img="carstens_07.gif" alt="Overhead aerial compilation of the site spanning 1930 to 2010" caption="Overhead aerial compilation of the site spanning 1930 to 2010, Courtesy Tacoma Northwest Room." title="Overhead aerial compilation of the site spanning 1930 to 2010, Courtesy Tacoma Northwest Room." %}
 
@@ -22,7 +26,9 @@ Possibly the most effective piece of marketing that Carstens created and likely 
 
 **In 1987**, the Environmental Protection Agency declared the area a superfund site, identifying carcinogenic levels of heavy metals and organic compounds. Waste materials in soil composition samples ranged from coal tar, cyanide, shredded car interiors, animal fat and animal byproducts. A combination of soil excavation, stabilization and groundwater extraction was recommended for areas exceeding the 6 to 10 lifetime span cancer risk designation.[^26] This survey was completed only 17 years before the establishment of the Detention Center. 
 
-<p class="symbol">&#10042;</p>
+<div class="symbol-container">
+    <p class="symbol">&#10042;</p>
+</div>
 
 ## Conclusion
 
@@ -32,7 +38,9 @@ Possibly the most effective piece of marketing that Carstens created and likely 
 
 **The psychology of physical remove in the built environment acts a bit like a dumbwaiter**. This invention allowed goods to be pulled up from the basements and kitchens to the dining rooms and bedrooms of nineteenth century mansions. The simple contraption allowed the owner to consume without seeing the human cost of the product, and recognize their complicity in the abuse that made those resources possible. This is the difference between knowing something exists in concept and comprehending these places in person, thereby understanding your relationship to it.
 
-<p class="symbol">&#10042;</p>
+<div class="symbol-container">
+    <p class="symbol">&#10042;</p>
+</div>
 
 Thank you for your time.
 

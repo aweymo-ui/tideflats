@@ -12,7 +12,9 @@ gallery: true
 
 Using these assets, Thomas opened a retail butcher shop in Seattle with his brother Ernest in 1889, which grew into a wholesale packing house.[^12] The Carstens appear to have been ejected from this location by their Beacon Hill neighbors for unsanitary practices and creating a noxious environment.[^13] Seeking a space close enough to streams of revenue but far enough away from city dwellers of influence, Thomas seized on the Pacific Meat Company, a cooperative packing facility on the Tideflats which had recently been “visited by fire” in 1903.[^14]
 
-<p class="symbol">&#10042;</p>
+<div class="symbol-container">
+    <p class="symbol">&#10042;</p>
+</div>
 
 {% include gallery-figure.html img="carstens_13_p17061coll21_6249.jpg" alt="View of the Carstens Packing Co. from the Puyallup River, with wooden docks and stockyard in view." caption="View of the Carstens Packing Co. from the Puyallup River, ca. 1909, Courtesy Tacoma Northwest Room (CARSTENS-002)." title="View of the Carstens Packing Co. from the Puyallup River, ca. 1909, Courtesy Tacoma Northwest Room (CARSTENS-002)." %}
 
@@ -26,7 +28,9 @@ J.L. Sundquist described the conditions he experienced as a child:
 
 [^18]
 
-<p class="symbol">&#10042;</p>
+<div class="symbol-container">
+    <p class="symbol">&#10042;</p>
+</div>
 
 {% include gallery-figure.html img="carstens_45.jpg" alt="Circular logo for the Amalgamated Meat Cutters and Butcher Workman Union with illustrations of various cutting devices" caption="Logo of the Amalgamated Meat Cutters and Butcher Workman Union." title="Logo of the Amalgamated Meat Cutters and Butcher Workman Union." width="75%" %}
 
@@ -34,7 +38,9 @@ J.L. Sundquist described the conditions he experienced as a child:
 
 **In September of 2017**, Attorney General Bob Ferguson sued Geo Group for violating the Washington state minimum wage law, in response to inmates being paid one dollar a day or less for manual labor. Although representatives assert that these are “volunteer work programs” that comply with Federal standards, forced labor instances in other GEO-run facilities, and obvious power discrepancies bring into question how anyone could really volunteer, implying free will, while incarcerated.[^21]
 
-<p class="symbol">&#10042;</p>
+<div class="symbol-container">
+    <p class="symbol">&#10042;</p>
+</div>
 
 <br>
 
