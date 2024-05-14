@@ -12,6 +12,8 @@ gallery: true
 
 Using these assets, Thomas opened a retail butcher shop in Seattle with his brother Ernest in 1889, which grew into a wholesale packing house.[^12] The Carstens appear to have been ejected from this location by their Beacon Hill neighbors for unsanitary practices and creating a noxious environment.[^13] Seeking a space close enough to streams of revenue but far enough away from city dwellers of influence, Thomas seized on the Pacific Meat Company, a cooperative packing facility on the Tideflats which had recently been “visited by fire” in 1903.[^14]
 
+<p class="symbol">&#10042;</p>
+
 {% include gallery-figure.html img="carstens_13_p17061coll21_6249.jpg" alt="View of the Carstens Packing Co. from the Puyallup River, with wooden docks and stockyard in view." caption="View of the Carstens Packing Co. from the Puyallup River, ca. 1909, Courtesy Tacoma Northwest Room (CARSTENS-002)." title="View of the Carstens Packing Co. from the Puyallup River, ca. 1909, Courtesy Tacoma Northwest Room (CARSTENS-002)." %}
 
 **Within two years, Carstens was operating the largest meat packing plant west of Denver**;[^15] housing around 20,000 animals, employing 170 workers and providing them with an on-site dormitory.[^16] The facility had a complicated series of stables in front of the abattoir, cooler and corporate buildings, designating different categories of livestock as they were prepared for slaughter. These stables stood next to a small pond, now dry, where any unusable remains were routed to the nearby sewage processing facility and out into the Puyallup River.[^17]
@@ -24,13 +26,15 @@ J.L. Sundquist described the conditions he experienced as a child:
 
 [^18]
 
+<p class="symbol">&#10042;</p>
+
 {% include gallery-figure.html img="carstens_45.jpg" alt="Circular logo for the Amalgamated Meat Cutters and Butcher Workman Union with illustrations of various cutting devices" caption="Logo of the Amalgamated Meat Cutters and Butcher Workman Union." title="Logo of the Amalgamated Meat Cutters and Butcher Workman Union." width="75%" %}
 
 **Thomas Carstens was an outspoken opponent of labor organization and the eight hour workday**. In 1908, he publicly announced that he would “never again recognize a union,” in this case, the Local 235 of the Amalgamated Meat Cutters, and required all new employees were to sign “yellow dog contracts,” demanding the applicant to abstain from any “agitation” that could “injure the business of the company”, under the penalty of a week’s pay.[^19] The press remained loyal to Carstens during the union busting process, writing glowingly about the “rich packer” putting on his overalls to kill 75 sheep due to striking employees and quoting Carstens boasting that he was “not a member of any union and I can work as long and hard as I want to.”[^20]
 
-___
-
 **In September of 2017**, Attorney General Bob Ferguson sued Geo Group for violating the Washington state minimum wage law, in response to inmates being paid one dollar a day or less for manual labor. Although representatives assert that these are “volunteer work programs” that comply with Federal standards, forced labor instances in other GEO-run facilities, and obvious power discrepancies bring into question how anyone could really volunteer, implying free will, while incarcerated.[^21]
+
+<p class="symbol">&#10042;</p>
 
 <br>
 
