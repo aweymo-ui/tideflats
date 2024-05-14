@@ -8,7 +8,9 @@ gallery: true
 
 {% include alert.html text="Note: In an effort to make this slideshow and supplementary workshop site widely accessible to different age groups and demographics, I have excluded all graphic visual material related to animal processing. If you are interested in this material, exploring the links in the Image Credits section will direct you to the full archive." color="light" align="right" %}
 
-#10042;
+<div class="symbol-container">
+    <p class="symbol">&#10042;</p>
+</div>
 
 ## The Tideflats
 
