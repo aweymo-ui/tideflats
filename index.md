@@ -4,9 +4,9 @@ layout: page
 gallery: true
 ---
 
-{% include gallery-figure.html img="banner.jpg" alt=" title card with a photo of the author of a large building with a stable in front of it and reading Carstens Packing Co." caption="Presentation for Society of Architectural Historians 2024 conference" title="Presentation for Society of Architectural Historians 2024 conference" %}
+{% include gallery-figure.html img="banner.jpg" alt=" title card with a photo of the author of a large building with a stable in front of it and reading Carstens Packing Co." caption="Presentation for Resist, Reclaim, Restore: Preserving an Inclusive Heritage Society of Architectural Historians 2025 mini-conference" title="Presentation for Resist, Reclaim, Restore: Preserving an Inclusive Heritage Society of Architectural Historians 2025 mini-conference" %}
 
-* [Slides](https://indd.adobe.com/view/de4744b4-d44f-4afc-96cb-f4a6a31b7d55)
+* [Slide Deck](https://indd.adobe.com/view/14272358-e0fa-4748-91dc-fbc141222b3b)
 
 * [Longform audio version of this presentations](https://andrewweymouth.bandcamp.com/album/the-tideflats), created for the 2022 University of Washington Storytelling Fellowship
 

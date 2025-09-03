@@ -6,7 +6,7 @@ gallery: true
 
 **Hello, my name is Andrew Weymouth** and I have worked with the University of Idaho Library as the [Digital Initiatives Librarian](https://www.lib.uidaho.edu/about/people/aweymouth.html) in the [Center for Digital Inquiry and Learning department](https://cdil.lib.uidaho.edu/) (CDIL) since August 2023. My work generally consists of creating and maintaining our digital collections, collaborating with students and faculty on fellowship programs, helping to rethink processes and introducing new digital scholarship tools to the department.
 
-{% include alert.html text="Note: In an effort to make this slideshow and supplementary workshop site widely accessible to different age groups and demographics, I have excluded all graphic visual material related to animal processing. If you are interested in this material, exploring the links in the Image Credits section will direct you to the full archive." color="light" align="right" %}
+{% include alert.html text="Note: In an effort to make this slideshow and supplementary workshop site widely accessible to different age groups and demographics, I have excluded all graphic visual material related to animal processing. If you are interested in this material, exploring the links in the [Image Credits](https://aweymo-ui.github.io/tideflats/content/6_images.html) section will direct you to the full archive." color="light" align="right" %}
 
 <div class="symbol-container">
     <p class="symbol">&#10042;</p>
