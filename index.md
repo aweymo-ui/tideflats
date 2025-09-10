@@ -10,6 +10,8 @@ gallery: true
 
 * [Longform audio version of this presentations](https://andrewweymouth.bandcamp.com/album/the-tideflats), created for the 2022 University of Washington Storytelling Fellowship
 
+{% include alert.html text="Note: In an effort to make this slideshow and supplementary workshop site widely accessible to different age groups and demographics, I have excluded all graphic visual material related to animal processing. If you are interested in this material, exploring the links in the [Image Credits](https://aweymo-ui.github.io/tideflats/content/6_images.html) section will direct you to the full archive." color="light" align="right" %}
+
 {% include toc.html %}
 
 ------

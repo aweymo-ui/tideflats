@@ -1,6 +1,7 @@
 ---
 title: Legacy
 nav: Legacy
+permalink: /5_legacy/
 gallery: true
 ---
 

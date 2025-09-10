@@ -1,41 +1,16 @@
 ---
 title: Introduction
 nav: Introduction
+permalink: /1_intro/
 gallery: true
 ---
 
-**Hello, my name is Andrew Weymouth** and I have worked with the University of Idaho Library as the [Digital Initiatives Librarian](https://www.lib.uidaho.edu/about/people/aweymouth.html) in the [Center for Digital Inquiry and Learning department](https://cdil.lib.uidaho.edu/) (CDIL) since August 2023. My work generally consists of creating and maintaining our digital collections, collaborating with students and faculty on fellowship programs, helping to rethink processes and introducing new digital scholarship tools to the department.
-
-{% include alert.html text="Note: In an effort to make this slideshow and supplementary workshop site widely accessible to different age groups and demographics, I have excluded all graphic visual material related to animal processing. If you are interested in this material, exploring the links in the [Image Credits](https://aweymo-ui.github.io/tideflats/content/6_images.html) section will direct you to the full archive." color="light" align="right" %}
-
-<div class="symbol-container">
-    <p class="symbol">&#10042;</p>
-</div>
-
-## The Tideflats
+The focus of this paper is an industrial area just south of downtown Tacoma, Washington spanning 5,000 acres known as the Tideflats. Since Tacoma was established as a port city in the 1870s, the Tideflats have been utilized to connect shipping trade from Commencement Bay on the Puget Sound to the Northern Pacific Railroad. Since then, The Tideflats have perpetually been utilized for in a combination of industrial and transient or semi-permanent residential use, with immigrant communities, “Hooverville’s”<sup>[1](/6_bib/#ref1)</sup> and employee housing intermingling with sawmills, manufacturing plants and the “the largest meat packing plant west of Denver,”<sup>[2](/6_bib/#ref2)</sup> the Carstens Packing Company. 
 
 {% include gallery-figure.html img="carstens_05_SOC_110.png" alt="Alt: Aerial map of the Tideflats area from the midcentury" caption="Map of the Industrial Area of Tacoma, Washington, created by the National Bank of Washington, ca. 1950s." title="Map of the Industrial Area of Tacoma, Washington, created by the National Bank of Washington, ca. 1950s." %}
 
-**The project I’ll be talking about today** is the result of a 2022 Storytelling Fellows for the University of Washington. The central focus is an industrial area just south of downtown Tacoma, Washington spanning 3,000 acres known as the Tideflats. Since Tacoma was established as a port city in the 1870s, the Tideflats have been utilized to connect shipping trade from Commencement Bay on the Puget Sound to the Northern Pacific Railroad. 
+I started thinking about the Carstens because of a digital archiving project I was working on in 2021 called [Lost Tacoma](https://aweymo.github.io/losttacoma/), in partnership with the [Tacoma Public Library’s Northwest Room](https://www.tacomalibrary.org/blogs/post/lost-tacoma/). The project intended to take a sample of a very large assortment of historical blueprints of buildings that were never built or no longer extant to reflect architectural preservation and reimagine the city. Three of the buildings in the collection were designed for Thomas Carstens, who established themselves on the Tideflats in 1904.<sup>[3](/6_bib/#ref3)</sup> Plans included a [pork house](https://northwestroom.tacomalibrary.org/index.php/carsten-packing-company-pork-house), a [cooler](https://northwestroom.tacomalibrary.org/index.php/carsten-packing-coolers-and-shipping-office) and an [abattoir](https://northwestroom.tacomalibrary.org/index.php/carsten-packing-company-abattoir), designed by industrial Chicago architects Henschien, Everds and Crombie, who would go on to create facilities for cold cut luminaries Oscar Meyer.<sup>[4](/6_bib/#ref4)</sup>
 
-{% include gallery-figure.html img="carstens_06_SOC_110.png" alt="Alt: Detail of the above map" caption="Map of the Industrial Area of Tacoma, Washington, created by the National Bank of Washington, ca. 1950s, detail." title="Map of the Industrial Area of Tacoma, Washington, created by the National Bank of Washington, ca. 1950s, detail." %}
+{% include gallery-figure.html img="carstens_39_1.jpg" alt="Alt: Detail of the above map" caption="Map of the Industrial Area of Tacoma, Washington, created by the National Bank of Washington, ca. 1950s, detail." title="Map of the Industrial Area of Tacoma, Washington, created by the National Bank of Washington, ca. 1950s, detail." %}
 
-<blockquote class="quote">
-In particular, I was interested in one, specific, 12 acre plot on the we can see marked as 186 on the map here, where the Northwest Detention Center is now located.
-</blockquote>
-[^1]
-
-**Established by a corporation called GEO Group** working under contract on behalf of the US Immigrations and Customs Enforcement, or ICE, the 1,575 bed detention center (originally around 500 beds when it opened in 2004)[^2] generates 57 million in annual revenue at full occupancy.[^3] The Center is abutted by the Puyallup River to the south, the City Waterway to the North and intersected by the Northern Pacific Railway line. The center isn’t visible from most areas of downtown Tacoma, but less than an hour’s walk away from it. Once there, the facility blends seamlessly alongside the other expansive, gray structures that sprawl across the Tideflats.
-
-The detention center has been observed violating both international human rights law and Constitutional citizen protections. Hundreds of inmates engaged in multiple hunger strikes in response to repeated allegations of medical neglect, unsanitary conditions, wage theft, delayed immigration hearings and sexual assault.[^4]
-
-<div class="symbol-container">
-    <p class="symbol">&#10042;</p>
-</div>
-
-<br>
-
-[^1]: The Tacoma Daily Ledger. August 2, 1931, page 9.
-[^2]: “Detention Center Discord - Opening Ceremony: - News Tribune, The (Tacoma, WA) - April 8, 2004 - Page B01.” n.d., 2.
-[^3]: Chapter Eight Shadow Prisons: Inside Private Immigrant Detention Centers.” 2017. In Inside Private Prisons, by Lauren-Brooke Eisen, 137–68. Columbia University Press. https://doi.org/10.7312/eise17970-009.
-[^4]:  “Conditions at the Northwest Detention Center.” 2022. Center for Human Rights (blog). July 28, 2022. https://jsis.washington.edu/humanrights/projects/human-rights-at-home/conditions-at-the-northwest-detention-center/.
+I was drawn to the blueprints by their detailed room labels, evocative regardless of your dietary preferences. Technical drawings illustrate the proximity of the _lard melting room_ to the _inedible rendering room_, and the _condemned products room_ to what was simply labeled the _hair department_. As I was identifying mapping coordinates for each of the 28 locations included in Lost Tacoma, I realized that this specific 12 acre plot hosted both the Carstens Packing Company and the Northwest Detention Center, opening exactly 100 years after one another.<sup>[5](/6_bib/#ref5)</sup>
