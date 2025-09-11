@@ -9,7 +9,7 @@ gallery: true
 
 <a id="ref1"></a>1. “A7037-3 - Northwest ORCA.” [↩](/1_intro/#cite1)  
 
-<a id="ref2"></a>2. *Tacoma Daily Ledger*, January 16, 1905, 20. [↩](/1_intro/#cite2)  
+<a id="ref2"></a>2. *Tacoma Daily Ledger*, January 16, 1905, 20. [↩]({{ "/1_intro/" | relative_url }}#cite2) 
 
 <a id="ref3"></a>3. *The Tacoma Daily Ledger*, August 2, 1931, 9. [↩](/1_intro/#cite3)  
 

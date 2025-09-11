@@ -27,7 +27,7 @@ Despite Carstens’ protests, the facility affected much more than the “perfum
 
 In 1987, the Environmental Protection Agency declared the area a superfund site, identifying carcinogenic levels of heavy metals and organic compounds. Waste materials in soil composition samples ranged from coal tar, cyanide, shredded car interiors, animal fat and animal byproducts. A combination of soil excavation, stabilization and groundwater extraction was recommended for areas exceeding the 6 to 10 lifetime span cancer risk designation.<sup>[43](/6_bib/#ref43)</sup> This survey was completed only 17 years before the establishment of the Detention Center. 
 
-The law HB 1090, which passed in 2021, effectively banned private prisons in Washington State and would have forced the closure of the Northwest Detention Center when its contract ended with ICE in 2025. This law was later overlooked by a ruling that state law cannot interfere with federal government powers and their contracts with the Florida based Geo Group, leaving the Center open for the foreseeable future.<sup>[44](/6_bib/#ref44)</sup>
+The law HB 1090, which passed in 2021, effectively banned private prisons in Washington State and would have forced the closure of the Northwest Detention Center when its contract ended with ICE in 2025. This law was subsequently disarmed by a ruling that state law cannot interfere with federal government powers and their contracts with the Florida based Geo Group, leaving the Center open for the foreseeable future.<sup>[44](/6_bib/#ref44)</sup>
 
 <div class="symbol-container">
     <p class="symbol">&#10042;</p>
