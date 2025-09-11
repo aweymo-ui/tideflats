@@ -4,7 +4,7 @@ nav: Image Credits
 gallery: true
 ---
 
-Full attribution for all images included in the [slideshow](https://indd.adobe.com/view/de4744b4-d44f-4afc-96cb-f4a6a31b7d55)
+<br>
 
 - “A7037-1 - Northwest ORCA.” n.d. Accessed March 29, 2024. https://northwestroom.tacomalibrary.org/index.php/a7037-1.
 
@@ -84,3 +84,5 @@ Office, United States Patent. 1887. Official Gazette of the United States Patent
 - “Richards Studio D49059-41.” n.d. Accessed March 28, 2024. https://tacomalibrary.contentdm.oclc.org/digital/collection/p17061coll21/id/33727/rec/41.
 
 - “STENGER-0115 Front - Northwest ORCA.” n.d. Accessed March 28, 2024. https://northwestroom.tacomalibrary.org/index.php/stenger-0115-front.
+
+<br>

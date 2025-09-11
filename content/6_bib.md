@@ -5,6 +5,8 @@ permalink: /6_bib/
 gallery: true
 ---
 
+<br>
+
 <a id="ref1"></a>1. “A7037-3 - Northwest ORCA.” [↩](/1_intro/#cite1)  
 
 <a id="ref2"></a>2. *Tacoma Daily Ledger*, January 16, 1905, 20. [↩](/1_intro/#cite2)  
@@ -55,40 +57,42 @@ gallery: true
 
 <a id="ref25"></a>25. *The Tacoma Daily News*, October 5, 1905. [↩](/3_tideflats/#cite25)  
 
-<a id="ref26"></a>26. *The Tacoma Daily Ledger*, August 2, 1931, 7. [↩](/1_intro/#cite26)  
+<a id="ref26"></a>26. *The Tacoma Daily Ledger*, August 2, 1931, 7. [↩](/4_carstens/#cite26)  
 
-<a id="ref27"></a>27. *The Tacoma Daily Ledger*, September 19, 1909, 25. [↩](/1_intro/#cite27)  
+<a id="ref27"></a>27. *The Tacoma Daily Ledger*, September 19, 1909, 25. [↩](/4_carstens/#cite27)  
 
-<a id="ref28"></a>28. *The Tacoma Tribune*, March 31, 1907. [↩](/1_intro/#cite28)  
+<a id="ref28"></a>28. *The Tacoma Tribune*, March 31, 1907. [↩](/4_carstens/#cite28)  
 
-<a id="ref29"></a>29. *The Tacoma Daily Ledger*, September 19, 1909, 25. [↩](/1_intro/#cite29)  
+<a id="ref29"></a>29. *The Tacoma Daily Ledger*, September 19, 1909, 25. [↩](/4_carstens/#cite29)  
 
-<a id="ref30"></a>30. *The Tacoma Daily Ledger*, June 14, 1903. [↩](/1_intro/#cite30)  
+<a id="ref30"></a>30. *The Tacoma Daily Ledger*, June 14, 1903. [↩](/4_carstens/#cite30)  
 
-<a id="ref31"></a>31. *Tacoma Daily Ledger*, January 16, 1905, 20. [↩](/1_intro/#cite31)  
+<a id="ref31"></a>31. *Tacoma Daily Ledger*, January 16, 1905, 20. [↩](/4_carstens/#cite31)  
 
-<a id="ref32"></a>32. Pierce County Labor Centennial Committee, "Butcher Workmen: UFCW Local 554," in *To Live in Dignity* (Tacoma: Pierce County Labor Centennial Committee, 1989), 67–69. [↩](/1_intro/#cite32)  
+<a id="ref32"></a>32. Pierce County Labor Centennial Committee, "Butcher Workmen: UFCW Local 554," in *To Live in Dignity* (Tacoma: Pierce County Labor Centennial Committee, 1989), 67–69. [↩](/4_carstens/#cite32)  
 
-<a id="ref33"></a>33. *Tacoma - Voices of the Past* (Tacoma: Tacoma Public Library, 1988), [link](http://archive.org/details/B-001-014-607). [↩](/1_intro/#cite33)  
+<a id="ref33"></a>33. *Tacoma - Voices of the Past* (Tacoma: Tacoma Public Library, 1988), [link](http://archive.org/details/B-001-014-607). [↩](/4_carstens/#cite33)  
 
-<a id="ref34"></a>34. Ibid. [↩](/1_intro/#cite34)  
+<a id="ref34"></a>34. Ibid. [↩](/4_carstens/#cite34)  
 
-<a id="ref35"></a>35. *Tacoma Daily News*, February 28, 1908, 8. [↩](/1_intro/#cite35)  
+<a id="ref35"></a>35. *Tacoma Daily News*, February 28, 1908, 8. [↩](/4_carstens/#cite35)  
 
-<a id="ref36"></a>36. Ibid. [↩](/1_intro/#cite36)  
+<a id="ref36"></a>36. Ibid. [↩](/4_carstens/#cite36)  
 
-<a id="ref37"></a>37. "Ferguson Sues Northwest Detention Center Operator Over $1-a-Day Wages," *Seattle Weekly*, September 20, 2017. [↩](/1_intro/#cite37)  
+<a id="ref37"></a>37. "Ferguson Sues Northwest Detention Center Operator Over $1-a-Day Wages," *Seattle Weekly*, September 20, 2017. [↩](/4_carstens/#cite37)  
 
-<a id="ref38"></a>38. Kaste, Martin. “Detainees Who Earned Just $1 a Day Are Owed $17 Million in Back Pay, a Jury Says.” *NPR*, October 29, 2021. [↩](/1_intro/#cite38)  
+<a id="ref38"></a>38. Kaste, Martin. “Detainees Who Earned Just $1 a Day Are Owed $17 Million in Back Pay, a Jury Says.” *NPR*, October 29, 2021. [↩](/4_carstens/#cite38)  
 
-<a id="ref39"></a>39. "Carstens Packing Company Photograph Album," photograph album, 2022, Archives West, [link](https://archiveswest.orbiscascade.org/ark:/80444/xv98272). [↩](/1_intro/#cite39)  
+<a id="ref39"></a>39. "Carstens Packing Company Photograph Album," photograph album, 2022, Archives West, [link](https://archiveswest.orbiscascade.org/ark:/80444/xv98272). [↩](/5_legacy/#cite39)  
 
-<a id="ref40"></a>40. "D8652-33," document, n.d., Northwest ORCA, Tacoma Public Library, Tacoma, WA, [link](https://northwestroom.tacomalibrary.org/index.php/d8652-33). [↩](/1_intro/#cite40)  
+<a id="ref40"></a>40. "D8652-33," document, n.d., Northwest ORCA, Tacoma Public Library, Tacoma, WA, [link](https://northwestroom.tacomalibrary.org/index.php/d8652-33). [↩](/5_legacy/#cite40)  
 
-<a id="ref41"></a>41. *The Tacoma Daily Ledger*, September 19, 1909, 25. [↩](/1_intro/#cite41)  
+<a id="ref41"></a>41. *The Tacoma Daily Ledger*, September 19, 1909, 25. [↩](/5_legacy/#cite41)  
 
-<a id="ref42"></a>42. "Tacoma's Hooverville: Hollywood on the Tideflats," *HistoryLink.org*, n.d., [link](https://www.historylink.org/File/22604). [↩](/1_intro/#cite42)  
+<a id="ref42"></a>42. "Tacoma's Hooverville: Hollywood on the Tideflats," *HistoryLink.org*, n.d., [link](https://www.historylink.org/File/22604). [↩](/5_legacy/#cite42)  
 
-<a id="ref43"></a>43. Leland Marshall, "EPA Superfund Record of Decision: REDACTED Record of Decision for Commencement Bay Nearshore/Tideflats Superfund Site, Operable Unit 19; Pierce County, Washington," U.S. Environmental Protection Agency, December 30, 1987. [↩](/1_intro/#cite43)  
+<a id="ref43"></a>43. Leland Marshall, "EPA Superfund Record of Decision: REDACTED Record of Decision for Commencement Bay Nearshore/Tideflats Superfund Site, Operable Unit 19; Pierce County, Washington," U.S. Environmental Protection Agency, December 30, 1987. [↩](/5_legacy/#cite43)  
 
-<a id="ref44"></a>44. *The Seattle Times*. “ICE Detention Center to Remain Open after WA Law Deemed Unenforceable.” June 29, 2023. [↩](/1_intro/#cite44)   
+<a id="ref44"></a>44. *The Seattle Times*. “ICE Detention Center to Remain Open after WA Law Deemed Unenforceable.” June 29, 2023. [↩](/5_legacy/#cite44)   
+
+<br>

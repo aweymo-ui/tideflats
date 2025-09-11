@@ -5,6 +5,7 @@ permalink: /3_tideflats/
 gallery: true
 ---
 
+<br>
 
 **This type of relationship between people and their surroundings can be explored through the lens of environmental psychology**, which author Kathryn Hobbes describes as the exploration of “human interactions with, and relations to, the environment through predominantly cognitive perspectives. It aims… to understand how certain predetermined cognitive constructs (e.g. values, attitudes, intentions) correlate… and to comprehend how particular concepts such as responsibility relate to environmental behavior or intention to act.”<sup>[18](/6_bib/#ref18)</sup> 
 
@@ -12,9 +13,18 @@ gallery: true
 
 While maybe the most famous example of environmental psychology is Sampson and Raudenbush’s “broken window theory” from 2004, which argues that perceptions of urban disorder are heavily influenced by where a neighborhood is located in the city and its ethnic makeup, rather than the visual noise of economic depression.<sup>[19](/6_bib/#ref19)</sup> In contrast, this paper is examining elements of an environment that may never be perceived visually but still impact the people around it, possibly years or decades afterwards.
 
+<div class="symbol-container">
+    <p class="symbol">&#10042;</p>
+</div>
 ___
 
-**While the City of Tacoma** has had a [Tideflats Subarea Project](https://www.cityoftacoma.org/government/city_departments/planning_and_development_services/planning_services/current_initiatives_and_projects/tideflats_subarea_plan), to one day utilize the area for affordable housing and creating recreational spaces in development since 2013,<sup>[20](/6_bib/#ref20)</sup> the land was still eerily undeveloped and unpopulated when I first visited in 2022. When I walked to the Detention Center from my previous residence just outside of downtown, I only encountered a single person walking on the street. Aside from a burger and teriyaki restaurant for truckers, and a community living on the north shore of the Tideflats mainly in cars and trailers, there’s very little signs of life. The vast majority of buildings are sprawling, one or two story warehouses, creating expansive sight lines and lack of tree cover which has a creeping, agoraphobic effect. This all makes it difficult to comprehend how this area was once a community.
+<br>
+
+**While the City of Tacoma** has had a [Tideflats Subarea Project](https://www.cityoftacoma.org/government/city_departments/planning_and_development_services/planning_services/current_initiatives_and_projects/tideflats_subarea_plan){:target="_blank" rel="noopener"}, to one day utilize the area for affordable housing and creating recreational spaces in development since 2013,<sup>[20](/6_bib/#ref20)</sup> the land was still eerily undeveloped and unpopulated when I first visited in 2022. When I walked to the Detention Center from my previous residence just outside of downtown, I only encountered a single person walking on the street. Aside from a burger and teriyaki restaurant for truckers, and a community living on the north shore of the Tideflats mainly in cars and trailers, there’s very little signs of life. The vast majority of buildings are sprawling, one or two story warehouses, creating expansive sight lines and lack of tree cover which has a creeping, agoraphobic effect. This all makes it difficult to comprehend how this area was once a community.
+
+<div class="symbol-container">
+    <p class="symbol">&#10042;</p>
+</div>
 
 {% include gallery-figure.html img="carstens_35_020101_1445.jpg" alt="Photo of a row of simple houses on muddy land, connected by a series of wooden decks" caption="Houses on the Tideflats, ca. 1938, Courtesy Tacoma Northwest Room (A7037-3)." title="Houses on the Tideflats, ca. 1938, Courtesy Tacoma Northwest Room (A7037-3)." %}
 
@@ -23,6 +33,10 @@ ___
 In addition to Nordic fishing settlements, the Tideflats also sustained a Japanese American community. In Lisa Hoffman and Mary Hanneman’s excellent Re-Mapping Tacoma’s Pre-War Japantown, the authors painstakingly reconstruct communities using an array of different oral history accounts from former residents. According to the 1910 census, there were at least 13,000 Japanese American immigrants living in Washington and some 2,500 of those residents were employed in Pacific Northwest sawmills.<sup>[23](/6_bib/#ref23)</sup>
 
 {% include gallery-figure.html img="carstens_33_020108_27706.jpg" alt="Two people sparing with kendo masks and wooden swords in Tacoma, overlooking a hillside" caption="Rev. Jokatsu Yukawa and an unknown person sparring in Kendo masks and wooden swords, ca. 1930s, Courtesy Tacoma Northwest Room (BOWEN G39.1-194)." title="Rev. Jokatsu Yukawa and an unknown person sparring in Kendo masks and wooden swords, ca. 1930s, Courtesy Tacoma Northwest Room (BOWEN G39.1-194)." %}
+
+<div class="symbol-container">
+    <p class="symbol">&#10042;</p>
+</div>
 
 The St. Paul and Tacoma Lumber Company incentivized immigrant labor due to the dangerous work conditions and insatiable demand for building materials during this period. The company provided newly arrived, unskilled workers with schools, boarding houses and customized cultural amenities on the Tideflats, essentially creating a company town just south of Tacoma’s urban center. The St. Paul and Tacoma Hotel had two buildings for housing employees, one for European workers and a Japanese Hotel on the opposite end of St. Paul avenue. Interviewee Clinton Butsuda described the building as:
 
@@ -33,5 +47,9 @@ The St. Paul and Tacoma Lumber Company incentivized immigrant labor due to the d
 <sup>[24](/6_bib/#ref24)</sup>
 
 Tideflats resident J.L. Sundquist recalled that after the Garfield school was shut down, he and his Japanese American schoolmates took a dark green streetcar with rattan seats that clattered up the 11th street bridge up to the Central School, located just north of where the main library is now. What Sunquist doesn’t mention is that the Garfield School was forced to close due to the “stench from a packing house in the vicinity.”<sup>[25](/6_bib/#ref25)</sup>
+
+<div class="symbol-container">
+    <p class="symbol">&#10042;</p>
+</div>
 
 <br>
