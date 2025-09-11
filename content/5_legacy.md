@@ -46,3 +46,11 @@ The law HB 1090, which passed in 2021, effectively banned private prisons in Was
 **The psychology of physical remove in the built environment** acts a bit like a dumbwaiter, which allows goods to be pulled up from the basements and kitchens to the dining rooms and bedrooms of usually upper class, residential homes. The simple contraption allowed the owner to consume without seeing the human cost of the product they were delivered, and recognize their complicity in any abuses that made those resources possible. This is the difference between knowing something exists in concept and comprehending these places in person, thereby understanding your relationship to it.
 
 <br>
+
+## About the Author
+
+{% include alert.html text="Andrew Weymouth is the Digital Initiatives Librarian at University of Idaho, primarily focusing on static web design to curate the institution’s special collections and partner with faculty and graduate students on fellowship projects. He has also created digital scholarship projects for the universities of Oregon, Washington and the Tacoma Northwest Room archives, ranging from long form audio public history to architectural databases and network visualizations. He writes about labor, architecture, underrepresented communities and using digital scholarship methods to survey equity in archival collections." color="light" align="center" %}
+
+{% include button.html text="More Workshops from the Author" link="https://aweymo.github.io/base/" color="light" centered="true" %}
+
+<br>
