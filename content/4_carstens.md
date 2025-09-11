@@ -5,7 +5,7 @@ permalink: /4_carstens/
 gallery: true
 ---
 
-{% include gallery-figure.html img="carstens_12_p17061coll21_5874.jpg" alt="Thomas Carstens posing in a three piece suit and mustache" caption="Thomas Carstens, ca. 1909, Courtesy Tacoma Northwest Room (CARSTENS-001)." title="Thomas Carstens, ca. 1909, Courtesy Tacoma Northwest Room (CARSTENS-001)." width="50%" %}
+{% include gallery-figure.html img="carstens_12_p17061coll21_5874.jpg" alt="Thomas Carstens posing in a three piece suit and mustache" caption="Thomas Carstens, ca. 1909, Courtesy Tacoma Northwest Room (CARSTENS-001)." width="50%" %}
 
 **Thomas Carstens was another immigrant to the United States** working (but not living) in the Tideflats. Born in Husum, Germany in 1865. In Tacoma newspapers, he was depicted glowingly as a model immigrant, “a self-made man and a striking example of what hard work and perseverance can accomplish.”<sup>[26]({{ "/6_bib/" | relative_url }}#ref26)</sup> The son of a successful Fleischman, Carstens immigrated to Wisconsin at 16, where he bounced between several low-level butchering positions in Milwaukee, Medford, and Portland, Oregon, and Chehalis, Washington. After a failed career change in logging, Carstens made three trips up to Alaska, when he came into an unexplained but significant amount of money that allowed him to sell a timber claim in San Francisco and invest in property along Englewood, then a small suburb outside of Los Angeles.<sup>[27]({{ "/6_bib/" | relative_url }}#ref27)</sup>
 
@@ -17,7 +17,7 @@ Using these assets, Thomas opened a retail butcher shop in Seattle with his brot
     <p class="symbol">&#10042;</p>
 </div>
 
-{% include gallery-figure.html img="carstens_13_p17061coll21_6249.jpg" alt="View of the Carstens Packing Co. from the Puyallup River, with wooden docks and stockyard in view." caption="View of the Carstens Packing Co. from the Puyallup River, ca. 1909, Courtesy Tacoma Northwest Room (CARSTENS-002)." title="View of the Carstens Packing Co. from the Puyallup River, ca. 1909, Courtesy Tacoma Northwest Room (CARSTENS-002)." %}
+{% include gallery-figure.html img="carstens_13_p17061coll21_6249.jpg" alt="View of the Carstens Packing Co. from the Puyallup River, with wooden docks and stockyard in view." caption="View of the Carstens Packing Co. from the Puyallup River, ca. 1909, Courtesy Tacoma Northwest Room (CARSTENS-002)." %}
 
 Within two years, Carstens was operating the largest meat packing plant west of Denver;<sup>[31]({{ "/6_bib/" | relative_url }}#ref31)</sup> housing around 20,000 animals, employing 170 workers and providing them with an on-site dormitory.<sup>[32]({{ "/6_bib/" | relative_url }}#ref32)</sup> The facility had a complicated series of stables in front of the abattoir, cooler and corporate buildings, designating different categories of livestock as they were prepared for slaughter. These stables stood next to a small pond, now dry, where any unusable remains were routed to the nearby sewage processing facility and out into the Puyallup River.<sup>[33]({{ "/6_bib/" | relative_url }}#ref33)</sup>
 

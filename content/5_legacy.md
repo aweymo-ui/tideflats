@@ -13,7 +13,7 @@ gallery: true
     <p class="symbol">&#10042;</p>
 </div>
 
-{% include gallery-figure.html img="carstens_11_p17061coll21_3068.jpeg" alt="Parade float covered in daffodils and upholstery trim with a butcher smiling and holding an oversized knife in front of a giant paper mache ham" caption="Carstens Packing Co. float, July 22, 1939, Courtesy Tacoma Northwest Room (D8652-33)." title="Carstens Packing Co. float, July 22, 1939, Courtesy Tacoma Northwest Room (D8652-33)." %}
+{% include gallery-figure.html img="carstens_11_p17061coll21_3068.jpeg" alt="Parade float covered in daffodils and upholstery trim with a butcher smiling and holding an oversized knife in front of a giant paper mache ham" caption="Carstens Packing Co. float, July 22, 1939, Courtesy Tacoma Northwest Room (D8652-33)." %}
 
 Perhaps the most effective piece of marketing that Carstens created and likely what most Tacoma residents would associate with them over the physical presence on the Tideflats was their annual participation in the Daffodil parade, where men in butcher’s whites wielded comically oversized carving knives in front of huge, paper mache hams on floats covered in daffodils and frilled trim.<sup>[40]({{ "/6_bib/" | relative_url }}#ref40)</sup>
 
@@ -41,7 +41,7 @@ The law HB 1090, which passed in 2021, effectively banned private prisons in Was
 
 **While there are overlapping themes of immigration**, captivity and labor abuse that connect the Carstens Packing Company and the Northwest Detention Center, an invisible factor is distance. Both institutions required a location close enough to the city to take advantage of its tax incentives, unorganized labor and access to centralized trade routes, while being far enough from view to keep residents forgetful of their obvious environmental and ethical impacts. Both understood the power of inserting themselves in a developing area, somewhat removed from public scrutiny.
 
-{% include gallery-figure.html img="carstens_47.png" alt="Illustrated patent for the dumbwaiter, showing internal pulleys" caption="Original patent for the dumbwaiter, February 17, 1887." title="Original patent for the dumbwaiter, February 17, 1887." %}
+{% include gallery-figure.html img="carstens_47.png" alt="Illustrated patent for the dumbwaiter, displaying internal pulleys" caption="Original patent for the dumbwaiter, February 17, 1887." %}
 
 **The psychology of physical remove in the built environment** acts a bit like a dumbwaiter, which allows goods to be pulled up from the basements and kitchens to the dining rooms and bedrooms of usually upper class, residential homes. The simple contraption allowed the owner to consume without seeing the human cost of the product they were delivered, and recognize their complicity in any abuses that made those resources possible. This is the difference between knowing something exists in concept and comprehending these places in person, thereby understanding your relationship to it.
 
