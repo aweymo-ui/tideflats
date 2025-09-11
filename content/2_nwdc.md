@@ -25,7 +25,7 @@ The creation of new facilities through Intergovernmental Service Agreements (IGS
     <p class="symbol">&#10042;</p>
 </div>
 
-**The Northwest Detention Center**, which GEO Group opened in 2004 as a 500 beds facility (now around 1,575 beds as of 2021)<sup>[14]({{ "/6_bib/" | relative_url }}#ref14)</sup> and generates 57 million in annual revenue at full occupancy.<sup>[15]({{ "/6_bib/" | relative_url }}#ref15)</sup> The Center is abutted by the Puyallup River to the south, the City Waterway to the North and intersected by the Northern Pacific Railway line. The sprawling, low level facility isn’t visible from most areas of downtown Tacoma, yet less than an hour’s walk away from it if you take the Murray Morgan Bridge.
+**The Northwest Detention Center**, which GEO Group opened in 2004 as a 500 beds facility (now around 1,575 beds as of 2021)<sup>[14]({{ "/6_bib/" | relative_url }}#ref14)</sup> and generates 57 million in annual revenue at full occupancy.<sup>[15]({{ "/6_bib/" | relative_url }}#ref15)</sup> The Center is abutted by the Puyallup River to the south, the City Waterway to the North and intersected by the Northern Pacific Railway line. The sprawling, low level facility isn’t visible from most areas of downtown Tacoma, yet less than an hour’s walk away via the Murray Morgan Bridge.
 
 {% include gallery-figure.html img="carstens_43 - 01.gif" alt="Fly over animation swooping down from north Tacoma to the detention center on the Tideflats" caption="Geographic Visualization of Northwest Detention Center on the Tideflats" %}
 
